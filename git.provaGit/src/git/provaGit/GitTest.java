@@ -2,6 +2,6 @@ package git.provaGit;
 
 public class GitTest {
 	public static void main(String[] args) {
-		System.out.println("Sei su Git -- modificato 5");
+		System.out.println("Sei su Git -- modificato");
 	}
 }
